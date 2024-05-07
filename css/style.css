@@ -706,7 +706,7 @@ footer .terms-content .terms-wrapper {
     z-index: 2;
   }
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1441px) {
   .container {
     max-width: 1280px;
   }
